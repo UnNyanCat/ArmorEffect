@@ -1,9 +1,26 @@
-1 = Speed
-2 = ???
-3 = ???
-4 = ???
-5 = ???
-6 = ???
-7 = ???
-8 = ???
-9 = ???
+Vitesse
+Lenteur
+Hâte
+Fatigue De Mineur
+Force
+Soin Instantané
+Dégâts Instantanés
+Sauts Améliorés
+Nausée
+Régénération
+Résistance
+Résistance Au Feu
+Respiration Aquatique
+Invisibilité
+Cécité
+Vision Nocturne
+Faim
+Faiblesse
+Poison
+Wither
+Bonus De Vie
+Absorption
+Saturation
+Lévitation
+Poison
+Puissance De Conduit
