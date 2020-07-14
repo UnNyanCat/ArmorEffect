@@ -11,7 +11,8 @@ use pocketmine\plugin\PluginBase;
 class Main extends PluginBase implements Listener {
 	public function onEnable()
 	{
-		$this->getLogger()->info("CreatorINFO armor effect activé avec succès");
+		$this->getServer()->getPluginManager()->registerEvents($this,$this);
+		$this->getLogger()->info("Armor effect activé avec succès");
 	}
 
 	public function onDisable()
